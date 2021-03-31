@@ -1,0 +1,12 @@
+header{display:flex;
+    
+    justify-content: center;
+       background-color: $meeta;
+    
+       button{
+           background-color: yellowgreen;
+           &::before{ 
+             content: "gobar is my bro ";
+           }
+           }
+       }
