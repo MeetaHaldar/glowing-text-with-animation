@@ -2,6 +2,8 @@
 
 <p> using neon backgroun shadow for anmation , on hover the shadow will appear </p>
 
+<a href="https://meetahaldar.github.io/glowing-text-with-animation/">Demo</a>
+
 <ul>
   Language used🎃
   
